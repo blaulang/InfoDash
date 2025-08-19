@@ -1,0 +1,15 @@
+body {
+    background-color: #ff77e9;
+    color: #0affff;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+button {
+    background-color: #ffaad4;
+    color: #0affff;
+    border: 2px dashed #ffffff;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
